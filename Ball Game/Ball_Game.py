@@ -1,7 +1,7 @@
 from tkinter import *
 from random import*
 
-'''New game to illustrate the use of tkinter to make a game that can handle collisions.
+'''New       game to illustrate the use of tkinter to make a game that can handle collisions.
 '''
 
 
